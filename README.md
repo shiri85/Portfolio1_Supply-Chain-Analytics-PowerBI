@@ -36,4 +36,4 @@ Star Schema:
 - Project documentation
 
 ## Author
-Mahmoud Sh.
+Mahmoud Shiri
