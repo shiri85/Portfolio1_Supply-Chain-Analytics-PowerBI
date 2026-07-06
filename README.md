@@ -37,3 +37,16 @@ Star Schema:
 
 ## Author
 Mahmoud Shiri
+
+
+
+## Dashboard Preview
+
+### Executive Summary
+![Executive Summary](Summary.png)
+
+### Delivery Risk Analysis
+![Late Delivery Risk](Late_Delivery_Risk.png)
+
+### Profitability Analysis
+![Profit Margin Measures](Profit_Margin_Measures.png)
